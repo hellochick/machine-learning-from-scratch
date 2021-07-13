@@ -5,5 +5,8 @@ The codes and the contents are based on [Machine Learning | Andrew Ng](https://w
 
 ## Table of Contents
 ### Interactive Version with Plotly
-* [Linear Regression](https://hellochick.github.io/notebooks/LinearRegression.html)
-* [Logistic Regression](https://hellochick.github.io/notebooks/LogisticRegression.html)
+
+| Notebook link | Course link (Andrew Ng) 
+| :---: | :---: | 
+| [Linear Regression](https://hellochick.github.io/notebooks/LinearRegression.html) | [Chapter 2](https://www.youtube.com/watch?v=kHwlB_j7Hkc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=4&ab_channel=ArtificialIntelligence-AllinOne) & [Chatper 4](https://www.youtube.com/watch?v=Q4GNLhRtZNc&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=18&ab_channel=ArtificialIntelligence-AllinOne) |
+| [Logistic Regression](https://hellochick.github.io/notebooks/LogisticRegression.html) | [Chapter 5](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=32&ab_channel=ArtificialIntelligence-AllinOne) |
