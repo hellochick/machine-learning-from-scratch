@@ -5,4 +5,5 @@ The codes and the contents are based on [Machine Learning | Andrew Ng](https://w
 
 ## Table of Contents
 ### Interactive Version with Plotly
+* [Linear Regression](https://hellochick.github.io/notebooks/LinearRegression.html)
 * [Logistic Regression](https://hellochick.github.io/notebooks/LogisticRegression.html)
