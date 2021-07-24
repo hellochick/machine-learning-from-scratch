@@ -12,3 +12,7 @@ The codes and the contents are based on [Machine Learning | Andrew Ng](https://w
 | [Logistic Regression](https://hellochick.github.io/notebooks/LogisticRegression.html) | [Chapter 6](https://www.youtube.com/watch?v=-la3q9d7AKQ&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN&index=32&ab_channel=ArtificialIntelligence-AllinOne) | * [Generalized Linear Model (GLM)](https://towardsdatascience.com/generalized-linear-models-9cbf848bb8ab) <br> * [Logit v.s. Logistic](https://www.geo.fu-berlin.de/en/v/soga/Basics-of-statistics/Logistic-Regression/The-Logit-Function/index.html) / [Logit - wiki](https://en.wikipedia.org/wiki/Logit) <br> * [Softmax v.s. Sigmoid](https://stats.stackexchange.com/questions/233658/softmax-vs-sigmoid-function-in-logistic-classifier) |
 | [Naive Bayes Classifier]() |  -  | * [Bayes theorem](https://www.youtube.com/watch?v=HZGCoVF3YvM) <br> * [Intuitive Explanation](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/) |
 | [Maximum Likelihood]() |  -  | * [Maximum Likelihood](https://youtu.be/XepXtl9YKwc) <br> * [Maximum Likelihood for Normal Distribution](https://youtu.be/Dn6b9fCIUpM) |
+
+### Note of important ML concepts
+* Precision & Recall (from [wiki](https://en.wikipedia.org/wiki/Precision_and_recall))
+![image](https://user-images.githubusercontent.com/18046598/126877136-151d6d2f-40df-400b-aaa7-698727096f2b.png)
