@@ -28,3 +28,4 @@ The codes and the contents are based on [Machine Learning | Andrew Ng](https://w
   Remember that precision and recall really helps when dealing with **imbalance data**.
   - [ROC v.s. AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
   - [Lecture 11.3 — Machine Learning System Design | Error Metrics For Skewed Classes (Andrew Ng)](https://www.youtube.com/watch?v=wGw6R8Abcu)
+  - [Lecture 11.4 — Machine Learning System Design | Trading Off Precision And Recall — (Andrew Ng)](https://youtu.be/W5meQnGACGo)
