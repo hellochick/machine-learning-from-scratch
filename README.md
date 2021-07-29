@@ -16,3 +16,4 @@ The codes and the contents are based on [Machine Learning | Andrew Ng](https://w
 ### Note of important ML concepts
 * Precision & Recall (from [wiki](https://en.wikipedia.org/wiki/Precision_and_recall))
 ![image](https://user-images.githubusercontent.com/18046598/126877136-151d6d2f-40df-400b-aaa7-698727096f2b.png)
+  - [ROC v.s. AUC](https://www.youtube.com/watch?v=4jRBRDbJemM)
